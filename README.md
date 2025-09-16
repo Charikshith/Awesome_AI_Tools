@@ -1,7 +1,7 @@
 # Awesome_AI_Tools
 AI tools to improve your productivity
 
-### 1. VibeCoding — AI Coding Tools
+### 1.1 VibeCoding — AI Coding Tools
 
 | Library / Tool | Description | License / Source |
 |----------------|-------------|------------------|
@@ -18,3 +18,9 @@ AI tools to improve your productivity
 | [CodeGeeX](https://github.com/THUDM/CodeGeeX2) | Large-scale multilingual code generation model with plugins for VS Code and JetBrains. | Open Source (Apache 2.0) |
 | [Blackbox AI](https://www.blackbox.ai/) | AI code search and generation assistant, supports autocompletion, code explanations, and debugging help. | Closed Source (SaaS) |
 
+### 1.2 Spec / Task-Steering Tools
+
+| Tool | Description | License / Source |
+|------|-------------|------------------|
+| [Specify / Spec Kit](https://github.blog/ai-and-ml/spec-driven-development-with-ai-get-started-with-a-new-open-source-toolkit/) | CLI toolkit to steer AI coding agents (like Copilot, Claude Code etc.) using specification commands; helps enforce structure and specs in workflows. | Open Source (GitHub)  |
+| [Shrimp Task Manager](https://github.com/cjo4m06/mcp-shrimp-task-manager) | A task manager built for AI agents to convert NL to structured development tasks with dependency tracking, iterative refinement, and style consistency. | Open Source (public GitHub)  |
