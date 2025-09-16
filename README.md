@@ -6,7 +6,7 @@ AI tools to improve your productivity
 | Library / Tool | Description | License / Source |
 |----------------|-------------|------------------|
 | [GitHub Copilot](https://github.com/features/copilot) | AI pair programmer by GitHub (powered by OpenAI), integrated into VS Code, JetBrains, and other IDEs to suggest code completions, functions, and tests. | Closed Source (Commercial SaaS) |
-| [Codeium](https://codeium.com/) | Free AI-powered code completion and chat assistant that supports 70+ languages and integrates with popular IDEs. | Closed Source (Free tier + SaaS) |
+| [Windsurf](https://codeium.com/) | Free AI-powered code completion and chat assistant that supports 70+ languages and integrates with popular IDEs. | Closed Source (Free tier + SaaS) |
 | [Tabnine](https://www.tabnine.com/) | AI coding assistant that provides context-aware completions, trained on permissively licensed code, with on-premises options for enterprises. | Closed Source (Commercial SaaS + Enterprise) |
 | [Cursor](https://cursor.sh/) | AI-native code editor built on top of VS Code with advanced AI-assisted coding, chat, and refactor capabilities. | Closed Source (Free + Paid Plans) |
 | [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/) | Amazon’s AI coding assistant integrated into AWS ecosystem, supports real-time code suggestions with built-in security scanning. | Closed Source (AWS Service) |
