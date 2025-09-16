@@ -12,7 +12,7 @@ AI tools to improve your productivity
 | [Cursor](https://cursor.sh/) | AI-native code editor built on top of VS Code with advanced AI-assisted coding, chat, and refactor capabilities. | Closed Source (Free + Paid Plans) |
 | [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/) | Amazon’s AI coding assistant integrated into AWS ecosystem, supports real-time code suggestions with built-in security scanning. | Closed Source (AWS Service) |
 | [OpenAI Codex](https://openai.com/codex) | OpenAI’s code generation model (precursor to GPT-4/5 coding abilities), powers natural language → code and GitHub Copilot. | Closed Source (No longer public API) |
-| [Claude Code](https://claude.ai/) | Anthropic’s coding-focused assistant (part of Claude family), optimized for reasoning-heavy programming, debugging, and multi-file edits. | Closed Source (Anthropic SaaS) |
+| [Claude Code](https://www.anthropic.com/claude-code) | Anthropic’s coding-focused assistant (part of Claude family), optimized for reasoning-heavy programming, debugging, and multi-file edits. | Closed Source (Anthropic SaaS) |
 | [AIXcoder](https://www.aixcoder.com/) | AI-powered code completion tool focused on local deployment and privacy for enterprises. | Closed Source (Commercial SaaS + On-Prem) |
 | [Polycoder](https://github.com/VHellendoorn/Code-LMs) | Open-source AI code generation model trained on multiple programming languages. | Open Source (MIT License) |
 | [CodeGeeX](https://github.com/THUDM/CodeGeeX2) | Large-scale multilingual code generation model with plugins for VS Code and JetBrains. | Open Source (Apache 2.0) |
