@@ -2,7 +2,21 @@
 AI tools to improve your productivity
 
 ### 1 VibeCoding — AI Coding Tools
-#### 1.1 IDE / CLI-Autocomplete + Local Agent Tools
+#### 1.1 Chat / Conversational - Coding Tools
+
+| Library / Tool | Description | License / Source |
+|----------------|-------------|------------------|
+| [Replit Ghostwriter](https://replit.com/site/ghostwriter) | AI coding companion inside Replit IDE, offering inline suggestions, code explanations, and test generation. | Closed Source (Replit SaaS) |
+| [OpenAI Codex](https://openai.com/research/codex) | OpenAI’s code generation model (precursor to GPT-4/5 coding abilities), powers natural language → code. | Closed Source (No longer public API) |
+| [Blackbox AI](https://www.blackbox.ai/) | AI code search and generation assistant, supports autocompletion, code explanations, and debugging help. | Closed Source (SaaS) |
+| [Lovable](https://lovable.dev/) | Web-based “vibe-coding” platform: build apps & websites by chatting with AI; generates full-stack scaffolding + support to export code. | Closed Source / Freemium (company product; was built on an open-source origin but current product is commercial) |
+| [Devin](https://devin.ai/) | AI engineering agent that helps devs by managing tickets, planning, generating code, refactoring, & testing; works across backlog & codebase. | Closed Source (Proprietary, SaaS) |
+| [Manus AI](https://manus.im/) | General-purpose AI agent that turns user thoughts into actions: planning, coding, execution, tool-calling in sandbox / environment. | Closed Source (Proprietary / Closed Beta)  |
+
+---
+
+
+#### 1.2 IDE - Autocomplete + Agent Tools
 
 | Library / Tool | Description | License / Source |
 |----------------|-------------|------------------|
@@ -20,19 +34,21 @@ AI tools to improve your productivity
 
 ---
 
-#### 1.2 Chat / Conversational & Hybrid Coding Tools
+
+
+#### 1.3 CLI-Only / Terminal Coding Assistants
 
 | Library / Tool | Description | License / Source |
 |----------------|-------------|------------------|
-| [Replit Ghostwriter](https://replit.com/site/ghostwriter) | AI coding companion inside Replit IDE, offering inline suggestions, code explanations, and test generation. | Closed Source (Replit SaaS) |
-| [OpenAI Codex](https://openai.com/research/codex) | OpenAI’s code generation model (precursor to GPT-4/5 coding abilities), powers natural language → code. | Closed Source (No longer public API) |
-| [Blackbox AI](https://www.blackbox.ai/) | AI code search and generation assistant, supports autocompletion, code explanations, and debugging help. | Closed Source (SaaS) |
-| [Lovable](https://lovable.dev/) | Web-based “vibe-coding” platform: build apps & websites by chatting with AI; generates full-stack scaffolding + support to export code. | Closed Source / Freemium (company product; was built on an open-source origin but current product is commercial) |
-| [Devin](https://devin.ai/) | AI engineering agent that helps devs by managing tickets, planning, generating code, refactoring, & testing; works across backlog & codebase. | Closed Source (Proprietary, SaaS) |
-| [Manus AI](https://manus.im/) | General-purpose AI agent that turns user thoughts into actions: planning, coding, execution, tool-calling in sandbox / environment. | Closed Source (Proprietary / Closed Beta)  |
+| [Cline](https://cline.bot/) | Fully open-source terminal AI coding agent; supports multi-step edits, context, planning, debugging from terminal. | Open Source |
+| [OpenCode](https://github.com/opencode-ai/opencode) | Terminal-based assistant providing intelligent coding help, early stage. | Open Source |
+| [Continue CLI](https://continue.dev/) | Open source CLI for building custom AI coding agents; defines rules / models, community extensions. | Open Source |
+| [Gemini CLI](https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/) | Google's open-source AI agent: code editing, file & shell interaction, large context, debugging via terminal. | Open Source |
+| [Aider](https://github.com/Aider-AI/aider) | AI pair-programming tool in terminal; supports git integration, edits, diffing, commits etc. | Open Source |
 
+---
 
-### 1.3 Spec / Task-Steering Tools
+### 2 Spec / Task-Steering Tools
 
 | Tool | Description | License / Source |
 |------|-------------|------------------|
