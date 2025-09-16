@@ -1,7 +1,8 @@
 # Awesome_AI_Tools
 AI tools to improve your productivity
 
-### 1.1 VibeCoding — AI Coding Tools
+### 1 VibeCoding — AI Coding Tools
+#### 1.1 IDE / CLI-Autocomplete + Local Agent Tools
 
 | Library / Tool | Description | License / Source |
 |----------------|-------------|------------------|
@@ -10,15 +11,24 @@ AI tools to improve your productivity
 | [Tabnine](https://www.tabnine.com/) | AI coding assistant that provides context-aware completions, trained on permissively licensed code, with on-premises options for enterprises. | Closed Source (Commercial SaaS + Enterprise) |
 | [Cursor](https://cursor.sh/) | AI-native code editor built on top of VS Code with advanced AI-assisted coding, chat, and refactor capabilities. | Closed Source (Free + Paid Plans) |
 | [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/) | Amazon’s AI coding assistant integrated into AWS ecosystem, supports real-time code suggestions with built-in security scanning. | Closed Source (AWS Service) |
-| [Replit Ghostwriter](https://replit.com/site/ghostwriter) | AI coding companion inside Replit IDE, offering inline suggestions, code explanations, and test generation. | Closed Source (Replit SaaS) |
-| [Claude Code](https://claude.ai/) | Anthropic’s coding-focused assistant (part of Claude family), optimized for reasoning-heavy programming, debugging, and multi-file edits. | Closed Source (Anthropic SaaS) |
 | [OpenAI Codex](https://openai.com/research/codex) | OpenAI’s code generation model (precursor to GPT-4/5 coding abilities), powers natural language → code and GitHub Copilot. | Closed Source (No longer public API) |
+| [Claude Code](https://claude.ai/) | Anthropic’s coding-focused assistant (part of Claude family), optimized for reasoning-heavy programming, debugging, and multi-file edits. | Closed Source (Anthropic SaaS) |
 | [AIXcoder](https://www.aixcoder.com/) | AI-powered code completion tool focused on local deployment and privacy for enterprises. | Closed Source (Commercial SaaS + On-Prem) |
 | [Polycoder](https://github.com/VHellendoorn/Code-LMs) | Open-source AI code generation model trained on multiple programming languages. | Open Source (MIT License) |
 | [CodeGeeX](https://github.com/THUDM/CodeGeeX2) | Large-scale multilingual code generation model with plugins for VS Code and JetBrains. | Open Source (Apache 2.0) |
 | [Blackbox AI](https://www.blackbox.ai/) | AI code search and generation assistant, supports autocompletion, code explanations, and debugging help. | Closed Source (SaaS) |
 
-### 1.2 Spec / Task-Steering Tools
+
+---
+
+#### 1.2 Chat / Conversational & Hybrid Coding Tools
+
+| Library / Tool | Description | License / Source |
+|----------------|-------------|------------------|
+| [Replit Ghostwriter](https://replit.com/site/ghostwriter) | AI coding companion inside Replit IDE, offering inline suggestions, code explanations, and test generation. | Closed Source (Replit SaaS) |
+| [OpenAI Codex](https://openai.com/research/codex) | OpenAI’s code generation model (precursor to GPT-4/5 coding abilities), powers natural language → code and GitHub Copilot. | Closed Source (No longer public API) |
+
+### 1.3 Spec / Task-Steering Tools
 
 | Tool | Description | License / Source |
 |------|-------------|------------------|
