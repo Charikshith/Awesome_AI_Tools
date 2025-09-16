@@ -53,4 +53,4 @@ AI tools to improve your productivity
 | Tool | Description | License / Source |
 |------|-------------|------------------|
 | [Specify / Spec Kit](https://github.blog/ai-and-ml/spec-driven-development-with-ai-get-started-with-a-new-open-source-toolkit/) | CLI toolkit to steer AI coding agents (like Copilot, Claude Code etc.) using specification commands; helps enforce structure and specs in workflows. | Open Source (GitHub)  |
-| [Shrimp Task Manager](https://github.com/cjo4m06/mcp-shrimp-task-manager) | A task manager built for AI agents to convert NL to structured development tasks with dependency tracking, iterative refinement, and style consistency. | Open Source (public GitHub)  |
+| [Task Master AI / Claude Task Master](https://github.com/eyaltoledano/claude-task-master) | Open-source task management tool that converts natural language project specs / PRDs into actionable development tasks with dependencies; integrates with Cursor, supports various AI models. | Open Source (GitHub)  |
