@@ -20,7 +20,7 @@ AI tools to improve your productivity
 
 ---
 
-#### 2.16.2 Chat / Conversational & Hybrid Coding Tools
+#### 1.2 Chat / Conversational & Hybrid Coding Tools
 
 | Library / Tool | Description | License / Source |
 |----------------|-------------|------------------|
